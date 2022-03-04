@@ -106,6 +106,7 @@
     "graceful-fs": "^4.2.9",
     "has": "^1.0.3",
     "has-flag": "^4.0.0",
+    "heroku": "^7.59.3",
     "html-encoding-sniffer": "^2.0.1",
     "html-escaper": "^2.0.2",
     "http-proxy-agent": "^4.0.1",
