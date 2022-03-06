@@ -58,5 +58,6 @@ Ran an input check test using Jest.
 
 For questions, comments, or bug reports, please reach out to me at [GitHub: SuperDasMan](https://github.com/SuperDasMan) or [Email me](mailto:bigdaddydas@gmail.com)
 
-_This README was generated with ❤️ by Josh West using [README-generator](https://github.com/SuperDasMan/README-Generator)_ &copy;2022
+_This README was generated with ❤️ by Josh West using [README-generator](https://github.com/SuperDasMan/README-Generator)_ 
 
+&copy;2022 SuperDasMan Studios, LLC.
