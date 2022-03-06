@@ -1,4 +1,4 @@
-# U Develop It
+# U-Develop-It
 
 ## [![License:MIT](https://img.shields.io/badge/License-MIT-aqua)](https://opensource.org/licenses/MIT)
 
@@ -12,7 +12,7 @@ Built with:
 JavaScript - ES6 - jQuery - Node
 
 
-[GitHub Repo](https://github.com/SuperDasMan/U Develop It/)
+[GitHub Repo](https://github.com/SuperDasMan/U-Develop-It/)
 
 
 ## Table of Contents
@@ -28,7 +28,7 @@ JavaScript - ES6 - jQuery - Node
 
 ## Installation
 
-Clone the repository or download .zip file of the app. Install Node.js, and then install Express.js, Jest, and Mysql2 in the Node terminal. Install and run Insomnia and Mysql Workbench. Type `npm start` into the terminal and hit "Enter" to start the server.
+Clone the repository or download .zip file of the  Jest, and Mysql2 in the Node terminal. Install anapp. Install Node.js, and then install Express.js,d run Insomnia and Mysql Workbench. Type `npm start` into the terminal and hit "Enter" to start the server.
 
 
 ## Usage
@@ -38,7 +38,9 @@ Use to create, update, delete, and count candidates, parties, voters, and votes 
 
 ## License
 
-## [License](https://opensource.org/licenses/MIT)
+
+## [MIT](#license)
+
 
 This application is covered by the [MITlicense]([![MIT]](https://opensource.org/licenses/MIT)).
 
@@ -52,13 +54,13 @@ No other contributors took part in this project.
 
 ## Tests
 
-Ran an input check test using Jest.
+Jest
 
 
 ## Questions
 
 For questions, comments, or bug reports, please reach out to me at [GitHub: SuperDasMan](https://github.com/SuperDasMan) or [Email me](mailto:bigdaddydas@gmail.com)
 
-_This README was generated with ❤️ by Josh West using [README-generator](https://github.com/SuperDasMan/README-Generator)_ 
+_This README was generated with ❤️ by Josh West using [README-generator](https://github.com/SuperDasMan/README-Generator)_
 
-&copy;2022 SuperDasMan Studios, LLC.
+&copy; SuperDasMan Studios, LLC.
