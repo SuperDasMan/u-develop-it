@@ -9,7 +9,7 @@ An app to create, update, delete, and count votes in an election.
 
 Built with:
 
-JavaScript\ - ES6\ - jQuery\ - Node
+JavaScript - ES6 - jQuery - Node
 
 
 [GitHub Repo](https://github.com/SuperDasMan/U Develop It/)
