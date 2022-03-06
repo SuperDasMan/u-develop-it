@@ -11,6 +11,7 @@ Built with:
 
 JavaScript - ES6 - jQuery - Node
 
+
 [GitHub Repo](https://github.com/SuperDasMan/U-Develop-It/)
 
 
@@ -37,7 +38,9 @@ Use to create, update, delete, and count candidates, parties, voters, and votes 
 
 ## License
 
+
 ## [MIT](#license)
+
 
 This application is covered by the [MITlicense]([![MIT]](https://opensource.org/licenses/MIT)).
 
