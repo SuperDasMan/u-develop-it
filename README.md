@@ -46,7 +46,7 @@ Check out the badges hosted by [shields.io](https://shields.io/).
 
 ## Contributing
 
-undefined
+No other contributors took part in this project.
 
 
 ## Tests
