@@ -37,7 +37,7 @@ Use to create, update, delete, and count candidates, parties, voters, and votes 
 
 ## License
 
-## [License](#license)
+## [License](https://opensource.org/licenses/MIT)
 
 This application is covered by the [MITlicense]([![MIT]](https://opensource.org/licenses/MIT)).
 
